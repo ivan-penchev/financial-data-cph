@@ -1,0 +1,2032 @@
+[
+ {
+   "Date": "2021-10-22",
+   "Highprice": 156.45,
+   "Lowprice": 156,
+   "Closingprice": 156.45,
+   "Averageprice": 156.06,
+   "Totalvolume": "4,960",
+   "Turnover": "774,051",
+   "FIELD8": ""
+ },
+ {
+   "Date": "2021-10-21",
+   "Highprice": 155.95,
+   "Lowprice": 155.65,
+   "Closingprice": 155.75,
+   "Averageprice": 155.68,
+   "Totalvolume": "10,814thmostcommon",
+   "Turnover": "1,683,475",
+   "FIELD8": ""
+ },
+ {
+   "Date": "2021-10-20",
+   "Highprice": 155.7,
+   "Lowprice": 155.4,
+   "Closingprice": 155.45,
+   "Averageprice": 155.63,
+   "Totalvolume": "3,391",
+   "Turnover": "527,744",
+   "FIELD8": ""
+ },
+ {
+   "Date": "2021-10-19",
+   "Highprice": 155.2,
+   "Lowprice": 154.55,
+   "Closingprice": 155.2,
+   "Averageprice": 155.02,
+   "Totalvolume": "3,856",
+   "Turnover": "597,756",
+   "FIELD8": ""
+ },
+ {
+   "Date": "2021-10-18",
+   "Highprice": 154.6,
+   "Lowprice": 154.2,
+   "Closingprice": 154.55,
+   "Averageprice": 154.41,
+   "Totalvolume": "3,707",
+   "Turnover": "572,388",
+   "FIELD8": ""
+ },
+ {
+   "Date": "2021-10-15",
+   "Highprice": 154.5,
+   "Lowprice": 153.85,
+   "Closingprice": 154.5,
+   "Averageprice": 154.29,
+   "Totalvolume": "6,781",
+   "Turnover": "1,046,261",
+   "FIELD8": ""
+ },
+ {
+   "Date": "2021-10-14",
+   "Highprice": 153.55,
+   "Lowprice": 152.4,
+   "Closingprice": 153.55,
+   "Averageprice": 152.91,
+   "Totalvolume": "1,473",
+   "Turnover": "225,236",
+   "FIELD8": ""
+ },
+ {
+   "Date": "2021-10-13",
+   "Highprice": 152.4,
+   "Lowprice": 151.8,
+   "Closingprice": 151.8,
+   "Averageprice": 151.99,
+   "Totalvolume": "2,344",
+   "Turnover": "356,271",
+   "FIELD8": ""
+ },
+ {
+   "Date": "2021-10-12",
+   "Highprice": 152.5,
+   "Lowprice": 151.45,
+   "Closingprice": 152.25,
+   "Averageprice": 151.62,
+   "Totalvolume": "11,561thmostcommon",
+   "Turnover": "1,752,831",
+   "FIELD8": ""
+ },
+ {
+   "Date": "2021-10-11",
+   "Highprice": 153.05,
+   "Lowprice": 152.35,
+   "Closingprice": 153.05,
+   "Averageprice": 152.89,
+   "Totalvolume": "13,544",
+   "Turnover": "2,070,710",
+   "FIELD8": ""
+ },
+ {
+   "Date": "2021-10-08",
+   "Highprice": 153.45,
+   "Lowprice": 153.05,
+   "Closingprice": 153.45,
+   "Averageprice": 153.36,
+   "Totalvolume": "5,596",
+   "Turnover": "858,221",
+   "FIELD8": ""
+ },
+ {
+   "Date": "2021-10-07",
+   "Highprice": 153.45,
+   "Lowprice": 152.5,
+   "Closingprice": 153.45,
+   "Averageprice": 153.36,
+   "Totalvolume": "4,543thmostcommon",
+   "Turnover": "696,716",
+   "FIELD8": ""
+ },
+ {
+   "Date": "2021-10-06",
+   "Highprice": 151.25,
+   "Lowprice": 150.3,
+   "Closingprice": 151.1,
+   "Averageprice": 150.54,
+   "Totalvolume": "22,298",
+   "Turnover": "3,356,632",
+   "FIELD8": ""
+ },
+ {
+   "Date": "2021-10-05",
+   "Highprice": 151.9,
+   "Lowprice": 150.75,
+   "Closingprice": 151.9,
+   "Averageprice": 151.12,
+   "Totalvolume": "8,350",
+   "Turnover": "1,261,847",
+   "FIELD8": ""
+ },
+ {
+   "Date": "2021-10-04",
+   "Highprice": 151.65,
+   "Lowprice": 151.1,
+   "Closingprice": 151.65,
+   "Averageprice": 151.34,
+   "Totalvolume": "10,979",
+   "Turnover": "1,661,528",
+   "FIELD8": ""
+ },
+ {
+   "Date": "2021-10-01",
+   "Highprice": 151.65,
+   "Lowprice": 150.8,
+   "Closingprice": 151.4,
+   "Averageprice": 151.19,
+   "Totalvolume": "9,209",
+   "Turnover": "1,392,342",
+   "FIELD8": ""
+ },
+ {
+   "Date": "2021-09-30",
+   "Highprice": 153.2,
+   "Lowprice": 152.8,
+   "Closingprice": 152.8,
+   "Averageprice": 152.88,
+   "Totalvolume": "513",
+   "Turnover": "78,428",
+   "FIELD8": ""
+ },
+ {
+   "Date": "2021-09-29",
+   "Highprice": 152.8,
+   "Lowprice": 152.4,
+   "Closingprice": 152.4,
+   "Averageprice": 152.58,
+   "Totalvolume": "7,897thmostcommon",
+   "Turnover": "1,204,962",
+   "FIELD8": ""
+ },
+ {
+   "Date": "2021-09-28",
+   "Highprice": 153.55,
+   "Lowprice": 152.8,
+   "Closingprice": 152.8,
+   "Averageprice": 153.28,
+   "Totalvolume": "2,494",
+   "Turnover": "382,282",
+   "FIELD8": ""
+ },
+ {
+   "Date": "2021-09-27",
+   "Highprice": 154.75,
+   "Lowprice": 153.9,
+   "Closingprice": 154.2,
+   "Averageprice": 154.44,
+   "Totalvolume": "3,043",
+   "Turnover": "469,949",
+   "FIELD8": ""
+ },
+ {
+   "Date": "2021-09-24",
+   "Highprice": 154.4,
+   "Lowprice": 153.75,
+   "Closingprice": 154.1,
+   "Averageprice": 154.03,
+   "Totalvolume": "3,489",
+   "Turnover": "537,404",
+   "FIELD8": ""
+ },
+ {
+   "Date": "2021-09-23",
+   "Highprice": 154.5,
+   "Lowprice": 154.1,
+   "Closingprice": 154.4,
+   "Averageprice": 154.28,
+   "Totalvolume": "7,252",
+   "Turnover": "1,118,872",
+   "FIELD8": ""
+ },
+ {
+   "Date": "2021-09-22",
+   "Highprice": 153.25,
+   "Lowprice": 152.65,
+   "Closingprice": 153.25,
+   "Averageprice": 152.88,
+   "Totalvolume": "2,469",
+   "Turnover": "377,467",
+   "FIELD8": ""
+ },
+ {
+   "Date": "2021-09-21",
+   "Highprice": 153.2,
+   "Lowprice": 152.4,
+   "Closingprice": 152.4,
+   "Averageprice": 152.81,
+   "Totalvolume": "9,202",
+   "Turnover": "1,406,186",
+   "FIELD8": ""
+ },
+ {
+   "Date": "2021-09-20",
+   "Highprice": 152.9,
+   "Lowprice": 152,
+   "Closingprice": 152.1,
+   "Averageprice": 152.56,
+   "Totalvolume": "3,526",
+   "Turnover": "537,940",
+   "FIELD8": ""
+ },
+ {
+   "Date": "2021-09-17",
+   "Highprice": 154.7,
+   "Lowprice": 154.1,
+   "Closingprice": 154.1,
+   "Averageprice": 154.55,
+   "Totalvolume": "3,158",
+   "Turnover": "488,078",
+   "FIELD8": ""
+ },
+ {
+   "Date": "2021-09-16",
+   "Highprice": 154.9,
+   "Lowprice": 154.4,
+   "Closingprice": 154.4,
+   "Averageprice": 154.61,
+   "Totalvolume": "8,076",
+   "Turnover": "1,248,592",
+   "FIELD8": ""
+ },
+ {
+   "Date": "2021-09-15",
+   "Highprice": 154.4,
+   "Lowprice": 153.95,
+   "Closingprice": 153.95,
+   "Averageprice": 154.21,
+   "Totalvolume": "2,911",
+   "Turnover": "448,910",
+   "FIELD8": ""
+ },
+ {
+   "Date": "2021-09-14",
+   "Highprice": 154.8,
+   "Lowprice": 154.4,
+   "Closingprice": 154.7,
+   "Averageprice": 154.7,
+   "Totalvolume": "8,503",
+   "Turnover": "1,315,417",
+   "FIELD8": ""
+ },
+ {
+   "Date": "2021-09-13",
+   "Highprice": 155.4,
+   "Lowprice": 154.8,
+   "Closingprice": 154.8,
+   "Averageprice": 155.21,
+   "Totalvolume": "6,273",
+   "Turnover": "973,641",
+   "FIELD8": ""
+ },
+ {
+   "Date": "2021-09-10",
+   "Highprice": 155.65,
+   "Lowprice": 155,
+   "Closingprice": 155,
+   "Averageprice": 155.34,
+   "Totalvolume": "1,213",
+   "Turnover": "188,433",
+   "FIELD8": ""
+ },
+ {
+   "Date": "2021-09-09",
+   "Highprice": 155.6,
+   "Lowprice": 155.05,
+   "Closingprice": 155.6,
+   "Averageprice": 155.2,
+   "Totalvolume": "6,781",
+   "Turnover": "1,052,386",
+   "FIELD8": ""
+ },
+ {
+   "Date": "2021-09-08",
+   "Highprice": 156.05,
+   "Lowprice": 155.6,
+   "Closingprice": 155.6,
+   "Averageprice": 155.93,
+   "Totalvolume": "3,824thmostcommon",
+   "Turnover": "596,288",
+   "FIELD8": ""
+ },
+ {
+   "Date": "2021-09-07",
+   "Highprice": 156.75,
+   "Lowprice": 156.25,
+   "Closingprice": 156.5,
+   "Averageprice": 156.6,
+   "Totalvolume": "6,260",
+   "Turnover": "980,308",
+   "FIELD8": ""
+ },
+ {
+   "Date": "2021-09-06",
+   "Highprice": 157,
+   "Lowprice": 156.6,
+   "Closingprice": 157,
+   "Averageprice": 156.91,
+   "Totalvolume": "3,787",
+   "Turnover": "594,223",
+   "FIELD8": ""
+ },
+ {
+   "Date": "2021-09-03",
+   "Highprice": 156.7,
+   "Lowprice": 156.3,
+   "Closingprice": 156.3,
+   "Averageprice": 156.44,
+   "Totalvolume": "2,321",
+   "Turnover": "363,101",
+   "FIELD8": ""
+ },
+ {
+   "Date": "2021-09-02",
+   "Highprice": 156.45,
+   "Lowprice": 156,
+   "Closingprice": 156.45,
+   "Averageprice": 156.3,
+   "Totalvolume": "2007",
+   "Turnover": "313,693",
+   "FIELD8": ""
+ },
+ {
+   "Date": "2021-09-01",
+   "Highprice": 156.75,
+   "Lowprice": 156,
+   "Closingprice": 156,
+   "Averageprice": 156.29,
+   "Totalvolume": "848",
+   "Turnover": "132,538",
+   "FIELD8": ""
+ },
+ {
+   "Date": "2021-08-31",
+   "Highprice": 156.55,
+   "Lowprice": 155.8,
+   "Closingprice": 155.8,
+   "Averageprice": 156.09,
+   "Totalvolume": "5,691",
+   "Turnover": "889,508",
+   "FIELD8": ""
+ },
+ {
+   "Date": "2021-08-30",
+   "Highprice": 156.1,
+   "Lowprice": 155.75,
+   "Closingprice": 155.8,
+   "Averageprice": 155.95,
+   "Totalvolume": "747",
+   "Turnover": "116,496",
+   "FIELD8": ""
+ },
+ {
+   "Date": "2021-08-27",
+   "Highprice": 155.55,
+   "Lowprice": 155.25,
+   "Closingprice": 155.55,
+   "Averageprice": 155.53,
+   "Totalvolume": "2,731thmostcommon",
+   "Turnover": "424,760",
+   "FIELD8": ""
+ },
+ {
+   "Date": "2021-08-26",
+   "Highprice": 155.8,
+   "Lowprice": 155.45,
+   "Closingprice": 155.65,
+   "Averageprice": 155.73,
+   "Totalvolume": "4,021",
+   "Turnover": "626,187",
+   "FIELD8": ""
+ },
+ {
+   "Date": "2021-08-25",
+   "Highprice": 156.1,
+   "Lowprice": 155.85,
+   "Closingprice": 155.9,
+   "Averageprice": 155.98,
+   "Totalvolume": "5,871",
+   "Turnover": "915,760",
+   "FIELD8": ""
+ },
+ {
+   "Date": "2021-08-24",
+   "Highprice": 156.35,
+   "Lowprice": 156,
+   "Closingprice": 156,
+   "Averageprice": 156.24,
+   "Totalvolume": "4,135",
+   "Turnover": "646,047",
+   "FIELD8": ""
+ },
+ {
+   "Date": "2021-08-23",
+   "Highprice": 155.75,
+   "Lowprice": 155.35,
+   "Closingprice": 155.7,
+   "Averageprice": 155.47,
+   "Totalvolume": "1,692",
+   "Turnover": "263,048",
+   "FIELD8": ""
+ },
+ {
+   "Date": "2021-08-20",
+   "Highprice": 155.5,
+   "Lowprice": 154.05,
+   "Closingprice": 155.2,
+   "Averageprice": 154.66,
+   "Totalvolume": "4,866",
+   "Turnover": "752,581",
+   "FIELD8": ""
+ },
+ {
+   "Date": "2021-08-19",
+   "Highprice": 154.55,
+   "Lowprice": 153.65,
+   "Closingprice": 154.55,
+   "Averageprice": 154.25,
+   "Totalvolume": "8,735",
+   "Turnover": "1,347,331",
+   "FIELD8": ""
+ },
+ {
+   "Date": "2021-08-18",
+   "Highprice": 155.6,
+   "Lowprice": 155.5,
+   "Closingprice": 155.6,
+   "Averageprice": 155.57,
+   "Totalvolume": "1,664",
+   "Turnover": "258,864",
+   "FIELD8": ""
+ },
+ {
+   "Date": "2021-08-17",
+   "Highprice": 155.55,
+   "Lowprice": 155.35,
+   "Closingprice": 155.55,
+   "Averageprice": 155.43,
+   "Totalvolume": "758",
+   "Turnover": "117,817",
+   "FIELD8": ""
+ },
+ {
+   "Date": "2021-08-16",
+   "Highprice": 155.3,
+   "Lowprice": 154.9,
+   "Closingprice": 154.9,
+   "Averageprice": 155.23,
+   "Totalvolume": "3,651",
+   "Turnover": "566,761",
+   "FIELD8": ""
+ },
+ {
+   "Date": "2021-08-13",
+   "Highprice": 155.7,
+   "Lowprice": 155.25,
+   "Closingprice": 155.3,
+   "Averageprice": 155.45,
+   "Totalvolume": "656",
+   "Turnover": "101,975",
+   "FIELD8": ""
+ },
+ {
+   "Date": "2021-08-12",
+   "Highprice": 155.4,
+   "Lowprice": 155.1,
+   "Closingprice": 155.1,
+   "Averageprice": 155.34,
+   "Totalvolume": "2,188",
+   "Turnover": "339,882",
+   "FIELD8": ""
+ },
+ {
+   "Date": "2021-08-11",
+   "Highprice": 155.55,
+   "Lowprice": 155.05,
+   "Closingprice": 155.55,
+   "Averageprice": 155.33,
+   "Totalvolume": "11,408",
+   "Turnover": "1,772,046",
+   "FIELD8": ""
+ },
+ {
+   "Date": "2021-08-10",
+   "Highprice": 155.45,
+   "Lowprice": 155,
+   "Closingprice": 155.35,
+   "Averageprice": 155.26,
+   "Totalvolume": "2,648",
+   "Turnover": "411,122",
+   "FIELD8": ""
+ },
+ {
+   "Date": "2021-08-09",
+   "Highprice": 155,
+   "Lowprice": 154.45,
+   "Closingprice": 155,
+   "Averageprice": 154.69,
+   "Totalvolume": "2,090",
+   "Turnover": "323,311",
+   "FIELD8": ""
+ },
+ {
+   "Date": "2021-08-06",
+   "Highprice": 154.5,
+   "Lowprice": 153.95,
+   "Closingprice": 154.4,
+   "Averageprice": 154.27,
+   "Totalvolume": "5,371",
+   "Turnover": "828,581",
+   "FIELD8": ""
+ },
+ {
+   "Date": "2021-08-05",
+   "Highprice": 154.55,
+   "Lowprice": 154.1,
+   "Closingprice": 154.2,
+   "Averageprice": 154.39,
+   "Totalvolume": "2,603",
+   "Turnover": "401,886",
+   "FIELD8": ""
+ },
+ {
+   "Date": "2021-08-04",
+   "Highprice": 154.25,
+   "Lowprice": 153.6,
+   "Closingprice": 154.1,
+   "Averageprice": 154,
+   "Totalvolume": "7,766",
+   "Turnover": "1,195,961",
+   "FIELD8": ""
+ },
+ {
+   "Date": "2021-08-03",
+   "Highprice": 153.8,
+   "Lowprice": 153.55,
+   "Closingprice": 153.55,
+   "Averageprice": 153.73,
+   "Totalvolume": "3,076",
+   "Turnover": "472,888",
+   "FIELD8": ""
+ },
+ {
+   "Date": "2021-08-02",
+   "Highprice": 153.9,
+   "Lowprice": 153.45,
+   "Closingprice": 153.85,
+   "Averageprice": 153.6,
+   "Totalvolume": "3,812thmostcommon",
+   "Turnover": "585,533",
+   "FIELD8": ""
+ },
+ {
+   "Date": "2021-07-30",
+   "Highprice": 153.3,
+   "Lowprice": 152.65,
+   "Closingprice": 153.3,
+   "Averageprice": 152.98,
+   "Totalvolume": "3,802",
+   "Turnover": "581,641",
+   "FIELD8": ""
+ },
+ {
+   "Date": "2021-07-29",
+   "Highprice": 153.45,
+   "Lowprice": 153.15,
+   "Closingprice": 153.15,
+   "Averageprice": 153.36,
+   "Totalvolume": "307",
+   "Turnover": "47,083",
+   "FIELD8": ""
+ },
+ {
+   "Date": "2021-07-28",
+   "Highprice": 153.5,
+   "Lowprice": 153.2,
+   "Closingprice": 153.5,
+   "Averageprice": 153.34,
+   "Totalvolume": "2,608",
+   "Turnover": "399,909",
+   "FIELD8": ""
+ },
+ {
+   "Date": "2021-07-27",
+   "Highprice": 153.15,
+   "Lowprice": 152.65,
+   "Closingprice": 152.75,
+   "Averageprice": 152.9,
+   "Totalvolume": "5,806",
+   "Turnover": "887,746",
+   "FIELD8": ""
+ },
+ {
+   "Date": "2021-07-26",
+   "Highprice": 153.45,
+   "Lowprice": 153.25,
+   "Closingprice": 153.4,
+   "Averageprice": 153.28,
+   "Totalvolume": "4,019",
+   "Turnover": "616,047",
+   "FIELD8": ""
+ },
+ {
+   "Date": "2021-07-23",
+   "Highprice": 153.55,
+   "Lowprice": 153.3,
+   "Closingprice": 153.55,
+   "Averageprice": 153.48,
+   "Totalvolume": "1,720",
+   "Turnover": "263,982",
+   "FIELD8": ""
+ },
+ {
+   "Date": "2021-07-22",
+   "Highprice": 153.4,
+   "Lowprice": 152.85,
+   "Closingprice": 153.4,
+   "Averageprice": 153.22,
+   "Totalvolume": "824",
+   "Turnover": "126,257",
+   "FIELD8": ""
+ },
+ {
+   "Date": "2021-07-21",
+   "Highprice": 152.45,
+   "Lowprice": 152,
+   "Closingprice": 152.4,
+   "Averageprice": 152.36,
+   "Totalvolume": "1,947thmostcommon",
+   "Turnover": "296,638",
+   "FIELD8": ""
+ },
+ {
+   "Date": "2021-07-20",
+   "Highprice": 151.5,
+   "Lowprice": 150.45,
+   "Closingprice": 151.5,
+   "Averageprice": 150.78,
+   "Totalvolume": "3,849thmostcommon",
+   "Turnover": "580,363",
+   "FIELD8": ""
+ },
+ {
+   "Date": "2021-07-19",
+   "Highprice": 151.6,
+   "Lowprice": 150,
+   "Closingprice": 150,
+   "Averageprice": 151.18,
+   "Totalvolume": "3,769",
+   "Turnover": "569,791",
+   "FIELD8": ""
+ },
+ {
+   "Date": "2021-07-16",
+   "Highprice": 152.95,
+   "Lowprice": 152.55,
+   "Closingprice": 152.55,
+   "Averageprice": 152.85,
+   "Totalvolume": "3,197",
+   "Turnover": "488,654",
+   "FIELD8": ""
+ },
+ {
+   "Date": "2021-07-15",
+   "Highprice": 153.1,
+   "Lowprice": 152.65,
+   "Closingprice": 152.75,
+   "Averageprice": 152.83,
+   "Totalvolume": "9,189",
+   "Turnover": "1,404,380",
+   "FIELD8": ""
+ },
+ {
+   "Date": "2021-07-14",
+   "Highprice": 153.35,
+   "Lowprice": 152.8,
+   "Closingprice": 153.35,
+   "Averageprice": 153.12,
+   "Totalvolume": "4,954",
+   "Turnover": "758,546",
+   "FIELD8": ""
+ },
+ {
+   "Date": "2021-07-13",
+   "Highprice": 153.15,
+   "Lowprice": 152.7,
+   "Closingprice": 153.15,
+   "Averageprice": 153.03,
+   "Totalvolume": "3,927thmostcommon",
+   "Turnover": "600,959",
+   "FIELD8": ""
+ },
+ {
+   "Date": "2021-07-12",
+   "Highprice": 152.4,
+   "Lowprice": 151.75,
+   "Closingprice": 152.4,
+   "Averageprice": 152.07,
+   "Totalvolume": "2,748",
+   "Turnover": "417,885",
+   "FIELD8": ""
+ },
+ {
+   "Date": "2021-07-09",
+   "Highprice": 151.85,
+   "Lowprice": 151.4,
+   "Closingprice": 151.45,
+   "Averageprice": 151.63,
+   "Totalvolume": "6,798",
+   "Turnover": "1,030,803",
+   "FIELD8": ""
+ },
+ {
+   "Date": "2021-07-08",
+   "Highprice": 152,
+   "Lowprice": 150.7,
+   "Closingprice": 150.85,
+   "Averageprice": 151.09,
+   "Totalvolume": "11,381",
+   "Turnover": "1,719,598",
+   "FIELD8": ""
+ },
+ {
+   "Date": "2021-07-07",
+   "Highprice": 152.75,
+   "Lowprice": 152.1,
+   "Closingprice": 152.5,
+   "Averageprice": 152.45,
+   "Totalvolume": "8,641thmostcommon",
+   "Turnover": "1,317,325",
+   "FIELD8": ""
+ },
+ {
+   "Date": "2021-07-06",
+   "Highprice": 152.35,
+   "Lowprice": 151.95,
+   "Closingprice": 151.95,
+   "Averageprice": 152.01,
+   "Totalvolume": "7,559",
+   "Turnover": "1,149,029",
+   "FIELD8": ""
+ },
+ {
+   "Date": "2021-07-05",
+   "Highprice": 152.35,
+   "Lowprice": 151.75,
+   "Closingprice": 152.35,
+   "Averageprice": 152.11,
+   "Totalvolume": "15,777",
+   "Turnover": "2,399,773",
+   "FIELD8": ""
+ },
+ {
+   "Date": "2021-07-02",
+   "Highprice": 152.05,
+   "Lowprice": 151.7,
+   "Closingprice": 151.75,
+   "Averageprice": 151.93,
+   "Totalvolume": "2,513",
+   "Turnover": "381,811",
+   "FIELD8": ""
+ },
+ {
+   "Date": "2021-07-01",
+   "Highprice": 151.7,
+   "Lowprice": 151.05,
+   "Closingprice": 151.1,
+   "Averageprice": 151.25,
+   "Totalvolume": "7,097",
+   "Turnover": "1,073,390",
+   "FIELD8": ""
+ },
+ {
+   "Date": "2021-06-30",
+   "Highprice": 151.15,
+   "Lowprice": 150.55,
+   "Closingprice": 151.1,
+   "Averageprice": 150.93,
+   "Totalvolume": "8,986",
+   "Turnover": "1,356,285",
+   "FIELD8": ""
+ },
+ {
+   "Date": "2021-06-29",
+   "Highprice": 151.1,
+   "Lowprice": 150.55,
+   "Closingprice": 151.1,
+   "Averageprice": 150.94,
+   "Totalvolume": "9,949",
+   "Turnover": "1,501,653",
+   "FIELD8": ""
+ },
+ {
+   "Date": "2021-06-28",
+   "Highprice": 150.65,
+   "Lowprice": 150.15,
+   "Closingprice": 150.55,
+   "Averageprice": 150.48,
+   "Totalvolume": "15,808",
+   "Turnover": "2,378,850",
+   "FIELD8": ""
+ },
+ {
+   "Date": "2021-06-25",
+   "Highprice": 150.15,
+   "Lowprice": 149.75,
+   "Closingprice": 150.15,
+   "Averageprice": 149.87,
+   "Totalvolume": "17,739thmostcommon",
+   "Turnover": "2,658,537",
+   "FIELD8": ""
+ },
+ {
+   "Date": "2021-06-24",
+   "Highprice": 149.8,
+   "Lowprice": 149.35,
+   "Closingprice": 149.75,
+   "Averageprice": 149.6,
+   "Totalvolume": "2,510thmostcommon",
+   "Turnover": "375,506",
+   "FIELD8": ""
+ },
+ {
+   "Date": "2021-06-23",
+   "Highprice": 149.4,
+   "Lowprice": 149.05,
+   "Closingprice": 149.35,
+   "Averageprice": 149.32,
+   "Totalvolume": "1,015thmostcommon",
+   "Turnover": "151,558",
+   "FIELD8": ""
+ },
+ {
+   "Date": "2021-06-22",
+   "Highprice": 149.4,
+   "Lowprice": 148.9,
+   "Closingprice": 149,
+   "Averageprice": 149.05,
+   "Totalvolume": "5,755",
+   "Turnover": "857,767",
+   "FIELD8": ""
+ },
+ {
+   "Date": "2021-06-21",
+   "Highprice": 148.7,
+   "Lowprice": 148.05,
+   "Closingprice": 148.7,
+   "Averageprice": 148.17,
+   "Totalvolume": "10,968",
+   "Turnover": "1,625,129",
+   "FIELD8": ""
+ },
+ {
+   "Date": "2021-06-18",
+   "Highprice": 149.5,
+   "Lowprice": 148.7,
+   "Closingprice": 148.7,
+   "Averageprice": 149.16,
+   "Totalvolume": "7,709",
+   "Turnover": "1,149,894",
+   "FIELD8": ""
+ },
+ {
+   "Date": "2021-06-17",
+   "Highprice": 148.95,
+   "Lowprice": 148.55,
+   "Closingprice": 148.85,
+   "Averageprice": 148.74,
+   "Totalvolume": "9,545thmostcommon",
+   "Turnover": "1,419,748",
+   "FIELD8": ""
+ },
+ {
+   "Date": "2021-06-16",
+   "Highprice": 148.95,
+   "Lowprice": 148.5,
+   "Closingprice": 148.95,
+   "Averageprice": 148.75,
+   "Totalvolume": "3,185",
+   "Turnover": "473,755",
+   "FIELD8": ""
+ },
+ {
+   "Date": "2021-06-15",
+   "Highprice": 149.2,
+   "Lowprice": 148.8,
+   "Closingprice": 148.8,
+   "Averageprice": 148.99,
+   "Totalvolume": "7,386",
+   "Turnover": "1,100,412",
+   "FIELD8": ""
+ },
+ {
+   "Date": "2021-06-14",
+   "Highprice": 149,
+   "Lowprice": 148.7,
+   "Closingprice": 148.7,
+   "Averageprice": 148.84,
+   "Totalvolume": "7,388",
+   "Turnover": "1,099,614",
+   "FIELD8": ""
+ },
+ {
+   "Date": "2021-06-11",
+   "Highprice": 148.6,
+   "Lowprice": 148.05,
+   "Closingprice": 148.45,
+   "Averageprice": 148.39,
+   "Totalvolume": "7,716",
+   "Turnover": "1,144,976",
+   "FIELD8": ""
+ },
+ {
+   "Date": "2021-06-10",
+   "Highprice": 147.8,
+   "Lowprice": 147.55,
+   "Closingprice": 147.8,
+   "Averageprice": 147.61,
+   "Totalvolume": "6,264",
+   "Turnover": "924,659",
+   "FIELD8": ""
+ },
+ {
+   "Date": "2021-06-09",
+   "Highprice": 147.85,
+   "Lowprice": 147.65,
+   "Closingprice": 147.75,
+   "Averageprice": 147.73,
+   "Totalvolume": "2,352",
+   "Turnover": "347,457",
+   "FIELD8": ""
+ },
+ {
+   "Date": "2021-06-08",
+   "Highprice": 147.95,
+   "Lowprice": 147.5,
+   "Closingprice": 147.65,
+   "Averageprice": 147.75,
+   "Totalvolume": "6,601",
+   "Turnover": "975,300",
+   "FIELD8": ""
+ },
+ {
+   "Date": "2021-06-07",
+   "Highprice": 147.95,
+   "Lowprice": 147.45,
+   "Closingprice": 147.7,
+   "Averageprice": 147.72,
+   "Totalvolume": "4,115",
+   "Turnover": "607,874",
+   "FIELD8": ""
+ },
+ {
+   "Date": "2021-06-04",
+   "Highprice": 147.05,
+   "Lowprice": 146.85,
+   "Closingprice": 147.05,
+   "Averageprice": 146.89,
+   "Totalvolume": "2,046",
+   "Turnover": "300,547",
+   "FIELD8": ""
+ },
+ {
+   "Date": "2021-06-03",
+   "Highprice": 147,
+   "Lowprice": 146.5,
+   "Closingprice": 146.8,
+   "Averageprice": 146.84,
+   "Totalvolume": "1,046thmostcommon",
+   "Turnover": "153,599",
+   "FIELD8": ""
+ },
+ {
+   "Date": "2021-06-02",
+   "Highprice": 147.05,
+   "Lowprice": 146.9,
+   "Closingprice": 146.9,
+   "Averageprice": 146.95,
+   "Totalvolume": "23,204",
+   "Turnover": "3,409,866",
+   "FIELD8": ""
+ },
+ {
+   "Date": "2021-06-01",
+   "Highprice": 147.25,
+   "Lowprice": 147,
+   "Closingprice": 147,
+   "Averageprice": 147.16,
+   "Totalvolume": "7,110",
+   "Turnover": "1,046,331",
+   "FIELD8": ""
+ },
+ {
+   "Date": "2021-05-31",
+   "Highprice": 147.1,
+   "Lowprice": 146.5,
+   "Closingprice": 146.5,
+   "Averageprice": 147.05,
+   "Totalvolume": "8,716",
+   "Turnover": "1,281,719",
+   "FIELD8": ""
+ },
+ {
+   "Date": "2021-05-28",
+   "Highprice": 147.15,
+   "Lowprice": 146.8,
+   "Closingprice": 147.05,
+   "Averageprice": 146.91,
+   "Totalvolume": "4,991",
+   "Turnover": "733,232",
+   "FIELD8": ""
+ },
+ {
+   "Date": "2021-05-27",
+   "Highprice": 146.9,
+   "Lowprice": 146.25,
+   "Closingprice": 146.55,
+   "Averageprice": 146.4,
+   "Totalvolume": "2,871",
+   "Turnover": "420,314",
+   "FIELD8": ""
+ },
+ {
+   "Date": "2021-05-26",
+   "Highprice": 146.7,
+   "Lowprice": 146.5,
+   "Closingprice": 146.5,
+   "Averageprice": 146.66,
+   "Totalvolume": "8,863",
+   "Turnover": "1,299,844",
+   "FIELD8": ""
+ },
+ {
+   "Date": "2021-05-25",
+   "Highprice": 146.8,
+   "Lowprice": 146.5,
+   "Closingprice": 146.7,
+   "Averageprice": 146.68,
+   "Totalvolume": "7,854",
+   "Turnover": "1,151,995",
+   "FIELD8": ""
+ },
+ {
+   "Date": "2021-05-21",
+   "Highprice": 146.4,
+   "Lowprice": 145.6,
+   "Closingprice": 146.4,
+   "Averageprice": 145.76,
+   "Totalvolume": "6,782",
+   "Turnover": "988,527",
+   "FIELD8": ""
+ },
+ {
+   "Date": "2021-05-20",
+   "Highprice": 145,
+   "Lowprice": 144.4,
+   "Closingprice": 145,
+   "Averageprice": 144.72,
+   "Totalvolume": "1,755",
+   "Turnover": "253,987",
+   "FIELD8": ""
+ },
+ {
+   "Date": "2021-05-19",
+   "Highprice": 144.4,
+   "Lowprice": 143.3,
+   "Closingprice": 143.7,
+   "Averageprice": 143.69,
+   "Totalvolume": "10,811thmostcommon",
+   "Turnover": "1,553,386",
+   "FIELD8": ""
+ },
+ {
+   "Date": "2021-05-18",
+   "Highprice": 146.05,
+   "Lowprice": 145.4,
+   "Closingprice": 145.4,
+   "Averageprice": 145.6,
+   "Totalvolume": "10,465",
+   "Turnover": "1,523,729",
+   "FIELD8": ""
+ },
+ {
+   "Date": "2021-05-17",
+   "Highprice": 145.7,
+   "Lowprice": 145.2,
+   "Closingprice": 145.5,
+   "Averageprice": 145.37,
+   "Totalvolume": "2,856",
+   "Turnover": "415,163",
+   "FIELD8": ""
+ },
+ {
+   "Date": "2021-05-12",
+   "Highprice": 145.35,
+   "Lowprice": 144.85,
+   "Closingprice": 144.85,
+   "Averageprice": 145.12,
+   "Totalvolume": "17,270",
+   "Turnover": "2,506,287",
+   "FIELD8": ""
+ },
+ {
+   "Date": "2021-05-11",
+   "Highprice": 145.75,
+   "Lowprice": 144.95,
+   "Closingprice": 144.95,
+   "Averageprice": 145.44,
+   "Totalvolume": "12,934thmostcommon",
+   "Turnover": "1,881,181",
+   "FIELD8": ""
+ },
+ {
+   "Date": "2021-05-10",
+   "Highprice": 147.7,
+   "Lowprice": 147.4,
+   "Closingprice": 147.65,
+   "Averageprice": 147.53,
+   "Totalvolume": "5,487",
+   "Turnover": "809,523",
+   "FIELD8": ""
+ },
+ {
+   "Date": "2021-05-07",
+   "Highprice": 147.35,
+   "Lowprice": 146.85,
+   "Closingprice": 147.35,
+   "Averageprice": 147.25,
+   "Totalvolume": "7,804",
+   "Turnover": "1,149,113",
+   "FIELD8": ""
+ },
+ {
+   "Date": "2021-05-06",
+   "Highprice": 146.9,
+   "Lowprice": 146.1,
+   "Closingprice": 146.15,
+   "Averageprice": 146.53,
+   "Totalvolume": "4,395",
+   "Turnover": "643,982",
+   "FIELD8": ""
+ },
+ {
+   "Date": "2021-05-05",
+   "Highprice": 146.8,
+   "Lowprice": 146.35,
+   "Closingprice": 146.5,
+   "Averageprice": 146.65,
+   "Totalvolume": "3,451",
+   "Turnover": "506,082",
+   "FIELD8": ""
+ },
+ {
+   "Date": "2021-05-04",
+   "Highprice": 146.55,
+   "Lowprice": 145.5,
+   "Closingprice": 145.5,
+   "Averageprice": 146.11,
+   "Totalvolume": "10,409",
+   "Turnover": "1,520,844",
+   "FIELD8": ""
+ },
+ {
+   "Date": "2021-05-03",
+   "Highprice": 146.4,
+   "Lowprice": 145.75,
+   "Closingprice": 146.35,
+   "Averageprice": 146.02,
+   "Totalvolume": "7,355",
+   "Turnover": "1,073,986",
+   "FIELD8": ""
+ },
+ {
+   "Date": "2021-04-29",
+   "Highprice": 146.8,
+   "Lowprice": 145.95,
+   "Closingprice": 145.95,
+   "Averageprice": 146.66,
+   "Totalvolume": "8,860thmostcommon",
+   "Turnover": "1,299,397",
+   "FIELD8": ""
+ },
+ {
+   "Date": "2021-04-28",
+   "Highprice": 146.75,
+   "Lowprice": 146.35,
+   "Closingprice": 146.7,
+   "Averageprice": 146.57,
+   "Totalvolume": "8,096",
+   "Turnover": "1,186,656",
+   "FIELD8": ""
+ },
+ {
+   "Date": "2021-04-27",
+   "Highprice": 147.1,
+   "Lowprice": 146.55,
+   "Closingprice": 146.55,
+   "Averageprice": 146.78,
+   "Totalvolume": "66,848",
+   "Turnover": "9,812,127",
+   "FIELD8": ""
+ },
+ {
+   "Date": "2021-04-26",
+   "Highprice": 146.9,
+   "Lowprice": 146.45,
+   "Closingprice": 146.9,
+   "Averageprice": 146.56,
+   "Totalvolume": "4,236",
+   "Turnover": "620,849",
+   "FIELD8": ""
+ },
+ {
+   "Date": "2021-04-23",
+   "Highprice": 146.2,
+   "Lowprice": 145.75,
+   "Closingprice": 146.2,
+   "Averageprice": 146,
+   "Totalvolume": "6,368",
+   "Turnover": "929,712",
+   "FIELD8": ""
+ },
+ {
+   "Date": "2021-04-22",
+   "Highprice": 146.55,
+   "Lowprice": 145.9,
+   "Closingprice": 146.55,
+   "Averageprice": 146.02,
+   "Totalvolume": "5,383",
+   "Turnover": "786,020",
+   "FIELD8": ""
+ },
+ {
+   "Date": "2021-04-21",
+   "Highprice": 145.8,
+   "Lowprice": 145.2,
+   "Closingprice": 145.8,
+   "Averageprice": 145.35,
+   "Totalvolume": "7,077",
+   "Turnover": "1,028,660",
+   "FIELD8": ""
+ },
+ {
+   "Date": "2021-04-20",
+   "Highprice": 146.1,
+   "Lowprice": 145.25,
+   "Closingprice": 145.25,
+   "Averageprice": 145.69,
+   "Totalvolume": "2,743",
+   "Turnover": "399,634",
+   "FIELD8": ""
+ },
+ {
+   "Date": "2021-04-19",
+   "Highprice": 147.1,
+   "Lowprice": 146.5,
+   "Closingprice": 146.55,
+   "Averageprice": 146.78,
+   "Totalvolume": "10,383",
+   "Turnover": "1,524,019",
+   "FIELD8": ""
+ },
+ {
+   "Date": "2021-04-16",
+   "Highprice": 146.8,
+   "Lowprice": 146.35,
+   "Closingprice": 146.8,
+   "Averageprice": 146.73,
+   "Totalvolume": "4,983",
+   "Turnover": "731,163",
+   "FIELD8": ""
+ },
+ {
+   "Date": "2021-04-15",
+   "Highprice": 146.2,
+   "Lowprice": 146,
+   "Closingprice": 146.15,
+   "Averageprice": 146.02,
+   "Totalvolume": "1,537thmostcommon",
+   "Turnover": "224,427",
+   "FIELD8": ""
+ },
+ {
+   "Date": "2021-04-14",
+   "Highprice": 146.1,
+   "Lowprice": 145.8,
+   "Closingprice": 146.05,
+   "Averageprice": 145.99,
+   "Totalvolume": "4,217",
+   "Turnover": "615,651",
+   "FIELD8": ""
+ },
+ {
+   "Date": "2021-04-13",
+   "Highprice": 146,
+   "Lowprice": 145.65,
+   "Closingprice": 145.65,
+   "Averageprice": 145.72,
+   "Totalvolume": "6,934",
+   "Turnover": "1,010,453",
+   "FIELD8": ""
+ },
+ {
+   "Date": "2021-04-12",
+   "Highprice": 146.05,
+   "Lowprice": 145.7,
+   "Closingprice": 145.7,
+   "Averageprice": 145.87,
+   "Totalvolume": "9,418thmostcommon",
+   "Turnover": "1,373,810",
+   "FIELD8": ""
+ },
+ {
+   "Date": "2021-04-09",
+   "Highprice": 145.8,
+   "Lowprice": 145.6,
+   "Closingprice": 145.65,
+   "Averageprice": 145.71,
+   "Totalvolume": "4,700",
+   "Turnover": "684,859",
+   "FIELD8": ""
+ },
+ {
+   "Date": "2021-04-08",
+   "Highprice": 145.85,
+   "Lowprice": 145.5,
+   "Closingprice": 145.7,
+   "Averageprice": 145.66,
+   "Totalvolume": "3,929thmostcommon",
+   "Turnover": "572,279",
+   "FIELD8": ""
+ },
+ {
+   "Date": "2021-04-07",
+   "Highprice": 145.55,
+   "Lowprice": 144.95,
+   "Closingprice": 145.2,
+   "Averageprice": 145.33,
+   "Totalvolume": "52,860",
+   "Turnover": "7,689,129",
+   "FIELD8": ""
+ },
+ {
+   "Date": "2021-04-06",
+   "Highprice": 145.9,
+   "Lowprice": 145.5,
+   "Closingprice": 145.55,
+   "Averageprice": 145.65,
+   "Totalvolume": "3,779",
+   "Turnover": "550,419",
+   "FIELD8": ""
+ },
+ {
+   "Date": "2021-03-31",
+   "Highprice": 143.85,
+   "Lowprice": 143.5,
+   "Closingprice": 143.85,
+   "Averageprice": 143.76,
+   "Totalvolume": "2,603",
+   "Turnover": "374,217",
+   "FIELD8": ""
+ },
+ {
+   "Date": "2021-03-30",
+   "Highprice": 144.1,
+   "Lowprice": 143.65,
+   "Closingprice": 143.85,
+   "Averageprice": 143.81,
+   "Totalvolume": "4,745",
+   "Turnover": "682,395",
+   "FIELD8": ""
+ },
+ {
+   "Date": "2021-03-29",
+   "Highprice": 143.6,
+   "Lowprice": 142.95,
+   "Closingprice": 143.45,
+   "Averageprice": 143.41,
+   "Totalvolume": "8,207",
+   "Turnover": "1,176,936",
+   "FIELD8": ""
+ },
+ {
+   "Date": "2021-03-26",
+   "Highprice": 142.7,
+   "Lowprice": 142.2,
+   "Closingprice": 142.7,
+   "Averageprice": 142.34,
+   "Totalvolume": "4,226",
+   "Turnover": "601,541",
+   "FIELD8": ""
+ },
+ {
+   "Date": "2021-03-25",
+   "Highprice": 141.45,
+   "Lowprice": 140.95,
+   "Closingprice": 140.95,
+   "Averageprice": 141.39,
+   "Totalvolume": "4,259",
+   "Turnover": "602,197",
+   "FIELD8": ""
+ },
+ {
+   "Date": "2021-03-24",
+   "Highprice": 141.55,
+   "Lowprice": 141.35,
+   "Closingprice": 141.5,
+   "Averageprice": 141.48,
+   "Totalvolume": "2,142",
+   "Turnover": "303,059",
+   "FIELD8": ""
+ },
+ {
+   "Date": "2021-03-23",
+   "Highprice": 141.75,
+   "Lowprice": 141.45,
+   "Closingprice": 141.65,
+   "Averageprice": 141.55,
+   "Totalvolume": "1,456",
+   "Turnover": "206,093",
+   "FIELD8": ""
+ },
+ {
+   "Date": "2021-03-22",
+   "Highprice": 141.6,
+   "Lowprice": 141.2,
+   "Closingprice": 141.6,
+   "Averageprice": 141.32,
+   "Totalvolume": "5,829thmostcommon",
+   "Turnover": "823,777",
+   "FIELD8": ""
+ },
+ {
+   "Date": "2021-03-19",
+   "Highprice": 141.65,
+   "Lowprice": 140.95,
+   "Closingprice": 141.3,
+   "Averageprice": 141.44,
+   "Totalvolume": "5,567",
+   "Turnover": "787,373",
+   "FIELD8": ""
+ },
+ {
+   "Date": "2021-03-18",
+   "Highprice": 141.75,
+   "Lowprice": 141.45,
+   "Closingprice": 141.75,
+   "Averageprice": 141.51,
+   "Totalvolume": "1,353thmostcommon",
+   "Turnover": "191,461",
+   "FIELD8": ""
+ },
+ {
+   "Date": "2021-03-17",
+   "Highprice": 142.2,
+   "Lowprice": 141.45,
+   "Closingprice": 141.45,
+   "Averageprice": 141.99,
+   "Totalvolume": "3,353",
+   "Turnover": "476,083",
+   "FIELD8": ""
+ },
+ {
+   "Date": "2021-03-16",
+   "Highprice": 142.4,
+   "Lowprice": 141.65,
+   "Closingprice": 142.4,
+   "Averageprice": 141.89,
+   "Totalvolume": "5,100",
+   "Turnover": "723,628",
+   "FIELD8": ""
+ },
+ {
+   "Date": "2021-03-15",
+   "Highprice": 141.65,
+   "Lowprice": 141,
+   "Closingprice": 141,
+   "Averageprice": 141.31,
+   "Totalvolume": "5,202",
+   "Turnover": "735,086",
+   "FIELD8": ""
+ },
+ {
+   "Date": "2021-03-12",
+   "Highprice": 141,
+   "Lowprice": 140.55,
+   "Closingprice": 140.85,
+   "Averageprice": 140.85,
+   "Totalvolume": "11,627thmostcommon",
+   "Turnover": "1,637,690",
+   "FIELD8": ""
+ },
+ {
+   "Date": "2021-03-11",
+   "Highprice": 141.2,
+   "Lowprice": 140.5,
+   "Closingprice": 141.2,
+   "Averageprice": 141.07,
+   "Totalvolume": "4,555thmostcommon",
+   "Turnover": "642,581",
+   "FIELD8": ""
+ },
+ {
+   "Date": "2021-03-10",
+   "Highprice": 140.3,
+   "Lowprice": 139.4,
+   "Closingprice": 140.3,
+   "Averageprice": 140.1,
+   "Totalvolume": "5,923",
+   "Turnover": "829,809",
+   "FIELD8": ""
+ },
+ {
+   "Date": "2021-03-09",
+   "Highprice": 140,
+   "Lowprice": 138.8,
+   "Closingprice": 140,
+   "Averageprice": 139.48,
+   "Totalvolume": "7,000",
+   "Turnover": "976,349",
+   "FIELD8": ""
+ },
+ {
+   "Date": "2021-03-08",
+   "Highprice": 138,
+   "Lowprice": 137.45,
+   "Closingprice": 138,
+   "Averageprice": 137.87,
+   "Totalvolume": "2,482",
+   "Turnover": "342,181",
+   "FIELD8": ""
+ },
+ {
+   "Date": "2021-03-05",
+   "Highprice": 137.25,
+   "Lowprice": 136.5,
+   "Closingprice": 137.25,
+   "Averageprice": 136.56,
+   "Totalvolume": "7,777",
+   "Turnover": "1,062,005",
+   "FIELD8": ""
+ },
+ {
+   "Date": "2021-03-04",
+   "Highprice": 137.5,
+   "Lowprice": 136.7,
+   "Closingprice": 137,
+   "Averageprice": 137.03,
+   "Totalvolume": "10,047",
+   "Turnover": "1,376,758",
+   "FIELD8": ""
+ },
+ {
+   "Date": "2021-03-03",
+   "Highprice": 139.1,
+   "Lowprice": 137.7,
+   "Closingprice": 137.7,
+   "Averageprice": 138.85,
+   "Totalvolume": "17,661thmostcommon",
+   "Turnover": "2,452,254",
+   "FIELD8": ""
+ },
+ {
+   "Date": "2021-03-02",
+   "Highprice": 139.15,
+   "Lowprice": 138.85,
+   "Closingprice": 138.9,
+   "Averageprice": 138.98,
+   "Totalvolume": "10,737thmostcommon",
+   "Turnover": "1,492,232",
+   "FIELD8": ""
+ },
+ {
+   "Date": "2021-03-01",
+   "Highprice": 138.4,
+   "Lowprice": 137.65,
+   "Closingprice": 138.4,
+   "Averageprice": 138.06,
+   "Totalvolume": "7,044",
+   "Turnover": "972,517",
+   "FIELD8": ""
+ },
+ {
+   "Date": "2021-02-26",
+   "Highprice": 137,
+   "Lowprice": 136.1,
+   "Closingprice": 136.4,
+   "Averageprice": 136.71,
+   "Totalvolume": "7,038",
+   "Turnover": "962,149",
+   "FIELD8": ""
+ },
+ {
+   "Date": "2021-02-25",
+   "Highprice": 138.8,
+   "Lowprice": 137.95,
+   "Closingprice": 137.95,
+   "Averageprice": 138.16,
+   "Totalvolume": "2,684",
+   "Turnover": "370,819",
+   "FIELD8": ""
+ },
+ {
+   "Date": "2021-02-24",
+   "Highprice": 138.05,
+   "Lowprice": 137.45,
+   "Closingprice": 137.95,
+   "Averageprice": 137.61,
+   "Totalvolume": "4,190thmostcommon",
+   "Turnover": "576,579",
+   "FIELD8": ""
+ },
+ {
+   "Date": "2021-02-23",
+   "Highprice": 138,
+   "Lowprice": 136.95,
+   "Closingprice": 137.45,
+   "Averageprice": 137.59,
+   "Totalvolume": "9,779",
+   "Turnover": "1,345,509",
+   "FIELD8": ""
+ },
+ {
+   "Date": "2021-02-22",
+   "Highprice": 138.65,
+   "Lowprice": 138.15,
+   "Closingprice": 138.65,
+   "Averageprice": 138.25,
+   "Totalvolume": "7,467",
+   "Turnover": "1,032,328",
+   "FIELD8": ""
+ },
+ {
+   "Date": "2021-02-19",
+   "Highprice": 139.7,
+   "Lowprice": 138.95,
+   "Closingprice": 139.45,
+   "Averageprice": 139.28,
+   "Totalvolume": "6,315",
+   "Turnover": "879,575",
+   "FIELD8": ""
+ },
+ {
+   "Date": "2021-02-18",
+   "Highprice": 140.15,
+   "Lowprice": 139.45,
+   "Closingprice": 139.45,
+   "Averageprice": 139.98,
+   "Totalvolume": "3,060",
+   "Turnover": "428,334",
+   "FIELD8": ""
+ },
+ {
+   "Date": "2021-02-17",
+   "Highprice": 140.55,
+   "Lowprice": 140.15,
+   "Closingprice": 140.4,
+   "Averageprice": 140.42,
+   "Totalvolume": "3,118",
+   "Turnover": "437,820",
+   "FIELD8": ""
+ },
+ {
+   "Date": "2021-02-16",
+   "Highprice": 140.75,
+   "Lowprice": 140.4,
+   "Closingprice": 140.5,
+   "Averageprice": 140.65,
+   "Totalvolume": "2,435",
+   "Turnover": "342,490",
+   "FIELD8": ""
+ },
+ {
+   "Date": "2021-02-15",
+   "Highprice": 140.65,
+   "Lowprice": 140.1,
+   "Closingprice": 140.35,
+   "Averageprice": 140.4,
+   "Totalvolume": "5,696",
+   "Turnover": "799,714",
+   "FIELD8": ""
+ },
+ {
+   "Date": "2021-02-12",
+   "Highprice": 139.65,
+   "Lowprice": 139.35,
+   "Closingprice": 139.5,
+   "Averageprice": 139.45,
+   "Totalvolume": "3,021",
+   "Turnover": "421,284",
+   "FIELD8": ""
+ },
+ {
+   "Date": "2021-02-11",
+   "Highprice": 139.4,
+   "Lowprice": 138.85,
+   "Closingprice": 139.4,
+   "Averageprice": 139.33,
+   "Totalvolume": "3,929thmostcommon",
+   "Turnover": "547,441",
+   "FIELD8": ""
+ },
+ {
+   "Date": "2021-02-10",
+   "Highprice": 139.25,
+   "Lowprice": 138.35,
+   "Closingprice": 138.35,
+   "Averageprice": 138.99,
+   "Totalvolume": "4,292",
+   "Turnover": "596,535",
+   "FIELD8": ""
+ },
+ {
+   "Date": "2021-02-09",
+   "Highprice": 139.25,
+   "Lowprice": 138.65,
+   "Closingprice": 139,
+   "Averageprice": 139.1,
+   "Totalvolume": "4,121",
+   "Turnover": "573,222",
+   "FIELD8": ""
+ },
+ {
+   "Date": "2021-02-08",
+   "Highprice": 139.15,
+   "Lowprice": 138.8,
+   "Closingprice": 139.15,
+   "Averageprice": 138.99,
+   "Totalvolume": "4,912",
+   "Turnover": "682,721",
+   "FIELD8": ""
+ },
+ {
+   "Date": "2021-02-05",
+   "Highprice": 139.3,
+   "Lowprice": 138.85,
+   "Closingprice": 139,
+   "Averageprice": 139.12,
+   "Totalvolume": "5,433",
+   "Turnover": "755,857",
+   "FIELD8": ""
+ },
+ {
+   "Date": "2021-02-04",
+   "Highprice": 138.4,
+   "Lowprice": 138.05,
+   "Closingprice": 138.2,
+   "Averageprice": 138.14,
+   "Totalvolume": "3,705",
+   "Turnover": "511,825",
+   "FIELD8": ""
+ },
+ {
+   "Date": "2021-02-03",
+   "Highprice": 138,
+   "Lowprice": 137.7,
+   "Closingprice": 137.85,
+   "Averageprice": 137.79,
+   "Totalvolume": "7,095",
+   "Turnover": "977,585",
+   "FIELD8": ""
+ },
+ {
+   "Date": "2021-02-02",
+   "Highprice": 137.35,
+   "Lowprice": 136.75,
+   "Closingprice": 137.3,
+   "Averageprice": 137.17,
+   "Totalvolume": "16,675thmostcommon",
+   "Turnover": "2,287,361",
+   "FIELD8": ""
+ },
+ {
+   "Date": "2021-02-01",
+   "Highprice": 138.9,
+   "Lowprice": 138.1,
+   "Closingprice": 138.4,
+   "Averageprice": 138.51,
+   "Totalvolume": "4,230",
+   "Turnover": "585,904",
+   "FIELD8": ""
+ },
+ {
+   "Date": "2021-01-29",
+   "Highprice": 138.8,
+   "Lowprice": 138.2,
+   "Closingprice": 138.8,
+   "Averageprice": 138.51,
+   "Totalvolume": "1,468",
+   "Turnover": "203,330",
+   "FIELD8": ""
+ },
+ {
+   "Date": "2021-01-28",
+   "Highprice": 138.95,
+   "Lowprice": 137.65,
+   "Closingprice": 138.8,
+   "Averageprice": 137.93,
+   "Totalvolume": "2,075",
+   "Turnover": "286,196",
+   "FIELD8": ""
+ },
+ {
+   "Date": "2021-01-27",
+   "Highprice": 140.95,
+   "Lowprice": 139.7,
+   "Closingprice": 139.9,
+   "Averageprice": 140.36,
+   "Totalvolume": "9,152",
+   "Turnover": "1,284,568",
+   "FIELD8": ""
+ },
+ {
+   "Date": "2021-01-26",
+   "Highprice": 141.5,
+   "Lowprice": 141.25,
+   "Closingprice": 141.5,
+   "Averageprice": 141.32,
+   "Totalvolume": "2,024",
+   "Turnover": "286,031",
+   "FIELD8": ""
+ },
+ {
+   "Date": "2021-01-25",
+   "Highprice": 141.8,
+   "Lowprice": 141.35,
+   "Closingprice": 141.65,
+   "Averageprice": 141.49,
+   "Totalvolume": "9,734",
+   "Turnover": "1,377,267",
+   "FIELD8": ""
+ },
+ {
+   "Date": "2021-01-22",
+   "Highprice": 141.35,
+   "Lowprice": 140.8,
+   "Closingprice": 141.35,
+   "Averageprice": 141.13,
+   "Totalvolume": "3,524",
+   "Turnover": "497,358",
+   "FIELD8": ""
+ },
+ {
+   "Date": "2021-01-21",
+   "Highprice": 142.7,
+   "Lowprice": 141.7,
+   "Closingprice": 141.7,
+   "Averageprice": 142.1,
+   "Totalvolume": "9,695",
+   "Turnover": "1,377,621",
+   "FIELD8": ""
+ },
+ {
+   "Date": "2021-01-20",
+   "Highprice": 142.15,
+   "Lowprice": 141.2,
+   "Closingprice": 142.15,
+   "Averageprice": 141.46,
+   "Totalvolume": "5,859",
+   "Turnover": "828,835",
+   "FIELD8": ""
+ },
+ {
+   "Date": "2021-01-19",
+   "Highprice": 141.1,
+   "Lowprice": 140.65,
+   "Closingprice": 140.7,
+   "Averageprice": 140.9,
+   "Totalvolume": "4,927",
+   "Turnover": "694,236",
+   "FIELD8": ""
+ },
+ {
+   "Date": "2021-01-18",
+   "Highprice": 140.5,
+   "Lowprice": 140.05,
+   "Closingprice": 140.35,
+   "Averageprice": 140.18,
+   "Totalvolume": "5,292",
+   "Turnover": "741,851",
+   "FIELD8": ""
+ },
+ {
+   "Date": "2021-01-15",
+   "Highprice": 140.8,
+   "Lowprice": 140.05,
+   "Closingprice": 140.05,
+   "Averageprice": 140.59,
+   "Totalvolume": "6,902",
+   "Turnover": "970,351",
+   "FIELD8": ""
+ },
+ {
+   "Date": "2021-01-14",
+   "Highprice": 141.35,
+   "Lowprice": 140.65,
+   "Closingprice": 141.35,
+   "Averageprice": 140.92,
+   "Totalvolume": "1,928",
+   "Turnover": "271,692",
+   "FIELD8": ""
+ },
+ {
+   "Date": "2021-01-13",
+   "Highprice": 140.35,
+   "Lowprice": 140.05,
+   "Closingprice": 140.2,
+   "Averageprice": 140.33,
+   "Totalvolume": "8,392",
+   "Turnover": "1,177,687",
+   "FIELD8": ""
+ },
+ {
+   "Date": "2021-01-12",
+   "Highprice": 140.65,
+   "Lowprice": 140.3,
+   "Closingprice": 140.45,
+   "Averageprice": 140.55,
+   "Totalvolume": "10,293",
+   "Turnover": "1,446,723",
+   "FIELD8": ""
+ },
+ {
+   "Date": "2021-01-11",
+   "Highprice": 140.65,
+   "Lowprice": 140.2,
+   "Closingprice": 140.55,
+   "Averageprice": 140.45,
+   "Totalvolume": "14,422",
+   "Turnover": "2,025,571",
+   "FIELD8": ""
+ },
+ {
+   "Date": "2021-01-08",
+   "Highprice": 140.3,
+   "Lowprice": 140.15,
+   "Closingprice": 140.2,
+   "Averageprice": 140.25,
+   "Totalvolume": "3,826thmostcommon",
+   "Turnover": "536,578",
+   "FIELD8": ""
+ },
+ {
+   "Date": "2021-01-07",
+   "Highprice": 139.35,
+   "Lowprice": 138.5,
+   "Closingprice": 139,
+   "Averageprice": 138.57,
+   "Totalvolume": "8,264",
+   "Turnover": "1,145,150",
+   "FIELD8": ""
+ },
+ {
+   "Date": "2021-01-06",
+   "Highprice": 137.6,
+   "Lowprice": 136.45,
+   "Closingprice": 137.6,
+   "Averageprice": 136.89,
+   "Totalvolume": "4,656",
+   "Turnover": "637,349",
+   "FIELD8": ""
+ },
+ {
+   "Date": "2021-01-05",
+   "Highprice": 137.4,
+   "Lowprice": 136.55,
+   "Closingprice": 137.4,
+   "Averageprice": 137.06,
+   "Totalvolume": "3,888",
+   "Turnover": "532,897",
+   "FIELD8": ""
+ },
+ {
+   "Date": "2021-01-04",
+   "Highprice": 138,
+   "Lowprice": 137.5,
+   "Closingprice": 137.5,
+   "Averageprice": 137.92,
+   "Totalvolume": "6,561",
+   "Turnover": "904,888",
+   "FIELD8": ""
+ }
+]
